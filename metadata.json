@@ -1,0 +1,7 @@
+{
+  "name": "LexiGuide AI",
+  "description": "LexiGuide AI — Legal Document Intelligence & Guidance. Plain-English summaries, clause analysis, obligations, risk detection, grounded Q&A, and document comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
